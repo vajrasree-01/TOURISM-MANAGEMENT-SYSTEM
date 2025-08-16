@@ -1,4 +1,4 @@
-# TOURISM-MANAGEMENT-SYSTEM
+# TRAVEL-DESTINATION-SYSTEM
 
 This project is a simple travel website developed using PHP and HTML. The application consists of a home page, about page, register page, and contact us page. The home page displays different travel destinations in India as cards, and when a user clicks on a card, detailed information about that place is shown. The about page provides information about the website, while the register page allows users to sign up by entering their details which are stored in the database. The contact us page enables users to submit their queries. The project integrates basic frontend design with PHP backend and MySQL database connectivity, making it a beginner-friendly web application for learning dynamic website development.
 
